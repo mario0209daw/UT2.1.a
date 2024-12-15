@@ -1,4 +1,4 @@
- ```xml
+    ```xml
     <?xml version="1.0" encoding="UTF-8"?>
     <libreria>
         <libro>
@@ -9,5 +9,14 @@
             <genero>Fantasía</genero>
             <precio>25</precio>
         </libro>
+        <libro>
+            <titulo>El Silmarillion</titulo>
+            <autor>J.R.R. Tolkien</autor>
+            <editorial>Minotauro</editorial>
+            <fecha>1977</fecha>
+            <genero>Fantasía</genero>
+            <precio>25</precio>
+        </libro>
     </libreria>
+    ```
     ```
